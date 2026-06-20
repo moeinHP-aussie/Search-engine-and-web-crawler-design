@@ -16,7 +16,7 @@
 
 ## 🇮🇷 فارسی
 
-# 🔍 موتور جستجوی فارسی زومیت
+# 🔍 موتور جستجوی فارسی سایت zoomit.ir
 این پروژه یک موتور جستجوی کوچک و هوشمند برای مقالات سایت **زومیت** است که تمام مراحل بازیابی اطلاعات، از جمع‌آوری داده‌های خام تا رتبه‌بندی نتایج جستجو را پوشش می‌دهد.
 
 ### 🏗️ معماری سیستم (فازهای اجرایی)
@@ -36,7 +36,7 @@
 
 ## EN English
 
-# 🔍 Zoomit Persian Search Engine
+# 🔍 Zoomit.ir Persian Search Engine
 This project is a compact, intelligent search engine built for **Zoomit** articles. It covers the entire Information Retrieval (IR) pipeline, from crawling raw web data to ranking search results.
 
 ### 🏗️ System Architecture (Execution Phases)
