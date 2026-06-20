@@ -1,0 +1,1002 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS E:\CompEn (SHET)\term10 - 1404-05\بازیابی اطلاعات\IR_practical2_40032313> python phase1_crawler.py
+============================================================
+  Zoomit Crawler — Started
+  Starting URL: https://www.zoomit.ir/
+  Target: Collecting at least 100 pages
+============================================================
+
+[1] Crawling: https://www.zoomit.ir/
+    ✓ Saved | Title: زومیت | اخبار فناوری، آموزش، راهنمای خرید و بررسی
+    → 247 new links added to queue | Queue size: 247
+
+[2] Crawling: https://www.zoomit.ir/product/
+    ✓ Saved | Title: زوبین | ابزار مقایسه محصول و قیمت کالای دیجیتال
+    → 278 new links added to queue | Queue size: 524
+
+[3] Crawling: https://zoomit.ir/tech/
+    ✓ Saved | Title: اخبار و مقالات فناوری؛ نبض تکنولوژی - زومیت
+    → 60 new links added to queue | Queue size: 583
+
+[4] Crawling: https://www.zoomit.ir/review/
+    ✓ Saved | Title: بررسی جدیدترین گوشی ها، لپ تاپ ها و انواع گجت های
+    → 22 new links added to queue | Queue size: 604
+
+[5] Crawling: https://www.zoomit.ir/howto/
+    ✓ Saved | Title: آموزش فناوری و زندگی دیجیتال | ترفندها، هوش مصنوعی
+    → 27 new links added to queue | Queue size: 630
+
+[6] Crawling: https://www.zoomit.ir/tech-iran/
+    ✓ Saved | Title: اخبار فناوری ایران - زومیت
+    → 23 new links added to queue | Queue size: 652
+
+[7] Crawling: https://www.zoomit.ir/science/
+    ✓ Saved | Title: علمی - زومیت
+    → 21 new links added to queue | Queue size: 672
+
+[8] Crawling: https://www.zoomit.ir/zoomplus/
+    ✓ Saved | Title: زوم پلاس - زومیت
+    → 18 new links added to queue | Queue size: 689
+
+[9] Crawling: https://www.zoomit.ir/video/
+    ✓ Saved | Title: ویدیو - زومیت
+    → 51 new links added to queue | Queue size: 739
+
+[10] Crawling: https://www.zoomit.ir/engineering/461380-goal-line-technology-hawk-eye-featured/
+    ✓ Saved | Title: فناوری خط دروازه در جام جهانی ۲۰۲۶ چگونه کار می‌کن
+    → 4 new links added to queue | Queue size: 742
+
+[11] Crawling: https://www.zoomit.ir/websites/405029-best-ai-related-websites/
+    ✓ Saved | Title: بهترین اپلیکیشن‌ها و برنامه‌های هوش مصنوعی رایگان
+    → 16 new links added to queue | Queue size: 757
+
+[12] Crawling: https://www.zoomit.ir/architecture/461437-world-cup-2026-top-stadiums/
+    ✓ Saved | Title: جذاب‌ترین استادیوم‌های جام جهانی ۲۰۲۶؛ سقف‌هایی شب
+    → 3 new links added to queue | Queue size: 759
+
+[13] Crawling: https://www.zoomit.ir/report/461458-internet-outages-and-policies-impacts/
+    ✓ Saved | Title: تماشا کنید: بن‌بست حکمرانی اینترنت در ایران؛ تاوان
+    → 3 new links added to queue | Queue size: 761
+
+[14] Crawling: https://www.zoomit.ir/report/460923-instagram-retailers-take-advantage-of-internet/
+    ✓ Saved | Title: اینترنت کم‌جان، اینستاگرام خالی؛ ۶۸ درصد از کاربرا
+    → 2 new links added to queue | Queue size: 762
+
+[15] Crawling: https://www.zoomit.ir/tech-iran/461079-irans-buffering-generation-burnt-gen-online-education/
+    ✓ Saved | Title: همیشه در حال «لود شدن»: روایت نسلی که پشت دیوار مح
+    → 2 new links added to queue | Queue size: 763
+
+[16] Crawling: https://www.zoomit.ir/ai-articles/461271-ai-power-2026-world-cup-featured/
+    ✓ Saved | Title: از پیش‌بینی مصدومیت تا دوربین اول‌شخص داوران؛ هوش
+    → 2 new links added to queue | Queue size: 764
+
+[17] Crawling: https://www.zoomit.ir/product/list/mobile/
+    ✓ Saved | Title: قیمت گوشی امروز ۲۹ خرداد، خرید ارزان موبایل از زوب
+    → 148 new links added to queue | Queue size: 911
+
+[18] Crawling: https://www.zoomit.ir/product/list/tablet/
+    ✓ Saved | Title: قیمت تبلت (ارزان‌‌ترین فروشندگان + پیشنهاد بهترین
+    → 81 new links added to queue | Queue size: 991
+
+[19] Crawling: https://www.zoomit.ir/product/list/laptop/
+    ✓ Saved | Title: قیمت لپ‌ تاپ ۲۹ خرداد  (فروشندگان + مقایسه فنی) -
+    → 44 new links added to queue | Queue size: 1034
+
+[20] Crawling: https://www.zoomit.ir/product/list/tv/
+    ✓ Saved | Title: قیمت تلویزیون و ال ای دی ۲۹ خرداد  (از ۳۲ تا ۸۵ ای
+    → 58 new links added to queue | Queue size: 1091
+
+[21] Crawling: https://www.zoomit.ir/product/list/wearables/
+    ✓ Saved | Title: بهترین قیمت ساعت هوشمند و اسمارت واچ ۲۹ خرداد  - ز
+    → 84 new links added to queue | Queue size: 1174
+
+[22] Crawling: https://www.zoomit.ir/product/list/headphone/
+    ✓ Saved | Title: قیمت روز هندزفری و هدفون | انواع هدست گیمینگ و بی
+    → 53 new links added to queue | Queue size: 1226
+
+[23] Crawling: https://www.zoomit.ir/product/list/hdd/
+    ✓ Saved | Title: قیمت هارد اکسترنال و اینترنال | خرید انواع هارد
+    → 83 new links added to queue | Queue size: 1308
+
+[24] Crawling: https://www.zoomit.ir/product/list/gaming-console/
+    ✓ Saved | Title: قیمت کنسول بازی 🎮 مقایسه و خرید ارزان امروز ۲۹ خرد
+    → 65 new links added to queue | Queue size: 1372
+
+[25] Crawling: https://www.zoomit.ir/product/list/vga/
+    ✓ Saved | Title: قیمت کارت گرافیک نو و استوک | مطمئن و ارزان بخر -
+    → 62 new links added to queue | Queue size: 1433
+
+[26] Crawling: https://www.zoomit.ir/product/list/cpu/
+    ✓ Saved | Title: قیمت CPU، مقایسه و خرید سی پی یو در زوبین
+    → 64 new links added to queue | Queue size: 1496
+
+[27] Crawling: https://www.zoomit.ir/product/list/monitor/
+    ✓ Saved | Title: قیمت مانیتور گیمینگ و اداری؛ فروشندگان + پیشنهاد خ
+    → 79 new links added to queue | Queue size: 1574
+
+[28] Crawling: https://www.zoomit.ir/product/list/ssd/
+    ✓ Saved | Title: قیمت هارد SSD، مقایسه و خرید حافظه اس اس دی در زوب
+    → 82 new links added to queue | Queue size: 1655
+
+[29] Crawling: https://www.zoomit.ir/product/list/camera/
+    ✓ Saved | Title: قیمت دوربین عکاسی | خرید دوربین حرفه‌ ای و دیجیتال
+    → 81 new links added to queue | Queue size: 1735
+
+[30] Crawling: https://www.zoomit.ir/product/list/powerbank/
+    ✓ Saved | Title: قیمت روز پاور بانک | خرید ارزان شارژر همراه (۵ تا
+    → 84 new links added to queue | Queue size: 1818
+
+[31] Crawling: https://www.zoomit.ir/product/list/charger/
+    ✓ Saved | Title: قیمت شارژر گوشی | خرید انواع شارژر موبایل اصل
+    → 84 new links added to queue | Queue size: 1901
+
+[32] Crawling: https://www.zoomit.ir/product/list/speaker/
+    ✓ Saved | Title: قیمت اسپیکر بلوتوثی و خانگی | خرید مدل‌هایی کوچک و
+    → 84 new links added to queue | Queue size: 1984
+
+[33] Crawling: https://www.zoomit.ir/shorts/2599/
+    ✓ Saved | Title: آنباکس لیمیتد ادیشن Poco X8 Pro
+    → 0 new links added to queue | Queue size: 1983
+
+[34] Crawling: https://www.zoomit.ir/shorts/2598/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1982
+
+[34] Crawling: https://www.zoomit.ir/shorts/2594/
+    ✓ Saved | Title: یک میلیارد تومان جایزه روزانه
+    → 0 new links added to queue | Queue size: 1981
+
+[35] Crawling: https://www.zoomit.ir/shorts/2581/
+    ✓ Saved | Title: اولین تریلیونر تاریخ بشریت
+    → 0 new links added to queue | Queue size: 1980
+
+[36] Crawling: https://www.zoomit.ir/shorts/2580/
+    ✓ Saved | Title: دولت آمریکا دکمه خاموشی را زد!
+    → 0 new links added to queue | Queue size: 1979
+
+[37] Crawling: https://www.zoomit.ir/shorts/2579/
+    ✓ Saved | Title: 400 میلیون جایزه وسطه!
+    → 0 new links added to queue | Queue size: 1978
+
+[38] Crawling: https://www.zoomit.ir/shorts/2574/
+    ✓ Saved | Title: مترجم همزمان گوگل با هوش مصنوعی
+    → 0 new links added to queue | Queue size: 1977
+
+[39] Crawling: https://www.zoomit.ir/shorts/2571/
+    ✓ Saved | Title: رازهای پنهان جعبه‌سیاه هواپیما
+    → 0 new links added to queue | Queue size: 1976
+
+[40] Crawling: https://www.zoomit.ir/shorts/2570/
+    ✓ Saved | Title: لاک‌اسکرین حرفه‌ای برای سامسونگی‌ها
+    → 0 new links added to queue | Queue size: 1975
+
+[41] Crawling: https://www.zoomit.ir/shorts/2560/
+    ✓ Saved | Title: دیجی کالا طلا میخره!
+    → 0 new links added to queue | Queue size: 1974
+
+[42] Crawling: https://www.zoomit.ir/shorts/2559/
+    ✓ Saved | Title: وزیر ارتباطات: وایت‌لیست، شدنی نیست
+    → 0 new links added to queue | Queue size: 1973
+
+[43] Crawling: https://www.zoomit.ir/shorts/2554/
+    ✓ Saved | Title: Siri بالاخره باهوش شد!
+    → 0 new links added to queue | Queue size: 1972
+
+[44] Crawling: https://www.zoomit.ir/shorts/2553/
+    ✓ Saved | Title: ios 27؛ آپدیت طوفانی اپل
+    → 0 new links added to queue | Queue size: 1971
+
+[45] Crawling: https://www.zoomit.ir/shorts/2551/
+    ✓ Saved | Title: اخبار تکنولوژی در ادامه جنگ
+    → 0 new links added to queue | Queue size: 1970
+
+[46] Crawling: https://www.zoomit.ir/shorts/2550/
+    ✓ Saved | Title: جرم: وصل کردن اینترنت
+    → 0 new links added to queue | Queue size: 1969
+
+[47] Crawling: https://www.zoomit.ir/shorts/2547/
+    ✓ Saved | Title: دوربین‌ترین گوشی هوشمند
+    → 0 new links added to queue | Queue size: 1968
+
+[48] Crawling: https://www.zoomit.ir/shorts/2543/
+    ✓ Saved | Title: تحریم صرافی‌های رمزاری؛ دارایی کاربران امنه؟
+    → 0 new links added to queue | Queue size: 1967
+
+[49] Crawling: https://www.zoomit.ir/shorts/2542/
+    ✓ Saved | Title: چت با کسی که دیگه نیست!
+    → 0 new links added to queue | Queue size: 1966
+
+[50] Crawling: https://www.zoomit.ir/shorts/2523/
+    ✓ Saved | Title: لپ‌تاپت رو آتیش بزن!
+    → 0 new links added to queue | Queue size: 1965
+
+[51] Crawling: https://www.zoomit.ir/shorts/2522/
+    ✓ Saved | Title: پایان قطعی ۸۸ روزه اینترنت و طوفان سخت‌افزاری انوی
+    → 0 new links added to queue | Queue size: 1964
+
+[52] Crawling: https://www.zoomit.ir/shorts/2521/
+    ✓ Saved | Title: پشت‌پرده اینترنت قطره‌چکانی
+    → 0 new links added to queue | Queue size: 1963
+
+[53] Crawling: https://www.zoomit.ir/shorts/2516/
+    ✓ Saved | Title: هدفونی که رکورد گینس رو شکست
+    → 0 new links added to queue | Queue size: 1962
+
+[54] Crawling: https://www.zoomit.ir/shorts/2503/
+    ✓ Saved | Title: حقه سامسونگ در دور زدن انحصار اپل
+    → 0 new links added to queue | Queue size: 1961
+
+[55] Crawling: https://www.zoomit.ir/shorts/2502/
+    ✓ Saved | Title: جنگنده‌های اینترنتی و آخرین مراسم اپل با تیم کوک
+    → 0 new links added to queue | Queue size: 1960
+
+[56] Crawling: https://www.zoomit.ir/shorts/2489/
+    ✓ Saved | Title: مسئولان فکر می‌کردند اینترنت وصل است!
+    → 0 new links added to queue | Queue size: 1959
+
+[57] Crawling: https://www.zoomit.ir/shorts/2487/
+    ✓ Saved | Title: بزرگ‌ترین تغییر گوگل سرچ در ۲۵ سال گذشته
+    → 0 new links added to queue | Queue size: 1958
+
+[58] Crawling: https://www.zoomit.ir/shorts/2486/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1957
+
+[58] Crawling: https://www.zoomit.ir/shorts/2485/
+    ✓ Saved | Title: ویدیوها رو با حرف زدن ادیت کن!
+    → 0 new links added to queue | Queue size: 1956
+
+[59] Crawling: https://www.zoomit.ir/shorts/2484/
+    ✓ Saved | Title: پشت پرده ایده اینترنت طبقاتی و پوسته‌ها
+    → 0 new links added to queue | Queue size: 1955
+
+[60] Crawling: https://www.zoomit.ir/shorts/2483/
+    ✓ Saved | Title: بمب گوگل و سامسونگ: عینک هوشمندی که آیفون رو هم ما
+    → 0 new links added to queue | Queue size: 1954
+
+[61] Crawling: https://www.zoomit.ir/shorts/2476/
+    ✓ Saved | Title: اینترنت در بحران؛ قطع یا مدیریت؟
+    → 0 new links added to queue | Queue size: 1953
+
+[62] Crawling: https://www.zoomit.ir/shorts/2474/
+    ✓ Saved | Title: از وعده‌های اینترنتی تا آیفون‌های اینتلی!
+    → 0 new links added to queue | Queue size: 1952
+
+[63] Crawling: https://www.zoomit.ir/shorts/2462/
+    ✓ Saved | Title: اندروید ۱۷ معرفی شد: پایان پادشاهی آیفون در اینستا
+    → 0 new links added to queue | Queue size: 1951
+
+[64] Crawling: https://www.zoomit.ir/shorts/2461/
+    ✓ Saved | Title: پرچمدار ۱۷۰۰ دلاری سونی با طراحی عجیب
+    → 0 new links added to queue | Queue size: 1950
+
+[65] Crawling: https://www.zoomit.ir/shorts/2449/
+    ✓ Saved | Title: ناتینگ فون 4a پرو اومده که متفاوت باشه
+    → 0 new links added to queue | Queue size: 1949
+
+[66] Crawling: https://www.zoomit.ir/shorts/2447/
+    ✓ Saved | Title: از وعده پایان فیلترینگ تا آیفون تاشو اپل!
+    → 0 new links added to queue | Queue size: 1948
+
+[67] Crawling: https://www.zoomit.ir/shorts/2445/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1947
+
+[67] Crawling: https://www.zoomit.ir/shorts/2444/
+    ✓ Saved | Title: راهکار قطعی گرمای تابستون بدون قبض برق نجومی!
+    → 0 new links added to queue | Queue size: 1946
+
+[68] Crawling: https://www.zoomit.ir/shorts/2443/
+    ✓ Saved | Title: ابر رنگین‌کمانی برفراز اندونزی
+    → 0 new links added to queue | Queue size: 1945
+
+[69] Crawling: https://www.zoomit.ir/shorts/2434/
+    ✓ Saved | Title: وضعیت اینترنت در ایران تا عینک هوشمند سامسونگ
+    → 0 new links added to queue | Queue size: 1944
+
+[70] Crawling: https://www.zoomit.ir/shorts/2432/
+    ✓ Saved | Title: آنباکس ASMR ناتینگ فون (4a) پرو
+    → 0 new links added to queue | Queue size: 1943
+
+[71] Crawling: https://www.zoomit.ir/shorts/2430/
+    ✓ Saved | Title: فاجعه در بازار موبایل: میان‌رده‌های ۱۰۰ میلیونی!
+    → 0 new links added to queue | Queue size: 1942
+
+[72] Crawling: https://www.zoomit.ir/shorts/2429/
+    ✓ Saved | Title: معرفی GPT-5.5 و تصویرساز جادویی Image 2.0
+    → 0 new links added to queue | Queue size: 1941
+
+[73] Crawling: https://www.zoomit.ir/shorts/2426/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1940
+
+[73] Crawling: https://www.zoomit.ir/shorts/2425/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1939
+
+[73] Crawling: https://www.zoomit.ir/shorts/2423/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1938
+
+[73] Crawling: https://www.zoomit.ir/shorts/2422/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1937
+
+[73] Crawling: https://www.zoomit.ir/shorts/2419/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1936
+
+[73] Crawling: https://www.zoomit.ir/shorts/2415/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1935
+
+[73] Crawling: https://www.zoomit.ir/shorts/2414/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1934
+
+[73] Crawling: https://www.zoomit.ir/shorts/2410/
+    ✓ Saved | Title: غروب زمین از نگاه فضانوردان آرتمیس ۲
+    → 0 new links added to queue | Queue size: 1933
+
+[74] Crawling: https://www.zoomit.ir/shorts/2409/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1932
+
+[74] Crawling: https://www.zoomit.ir/shorts/2407/
+    ✓ Saved | Title: رفع فیلتر گوگل در روز ۵۰ قطعی اینترنت
+    → 0 new links added to queue | Queue size: 1931
+
+[75] Crawling: https://www.zoomit.ir/shorts/2405/
+    ✓ Saved | Title: لحظه پرتاب آرتمیس ۲
+    → 0 new links added to queue | Queue size: 1930
+
+[76] Crawling: https://www.zoomit.ir/shorts/2400/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1929
+
+[76] Crawling: https://www.zoomit.ir/shorts/2399/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1928
+
+[76] Crawling: https://www.zoomit.ir/shorts/2397/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1927
+
+[76] Crawling: https://www.zoomit.ir/shorts/2395/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1926
+
+[76] Crawling: https://www.zoomit.ir/shorts/2391/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1925
+
+[76] Crawling: https://www.zoomit.ir/shorts/2390/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1924
+
+[76] Crawling: https://www.zoomit.ir/shorts/2387/
+    ✓ Saved | Title: جعبه‌گشایی پوکو X8 Pro نسخه IRON MAN
+    → 0 new links added to queue | Queue size: 1923
+
+[77] Crawling: https://www.zoomit.ir/shorts/2386/
+    ✓ Saved | Title: گوشی ویندوزی و اندرویدی
+    → 0 new links added to queue | Queue size: 1922
+
+[78] Crawling: https://www.zoomit.ir/shorts/2381/
+    ✓ Saved | Title: هوش مصنوعی نژاد پرست!
+    → 0 new links added to queue | Queue size: 1921
+
+[79] Crawling: https://www.zoomit.ir/shorts/2380/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1920
+
+[79] Crawling: https://www.zoomit.ir/shorts/2379/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1919
+
+[79] Crawling: https://www.zoomit.ir/shorts/2377/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1918
+
+[79] Crawling: https://www.zoomit.ir/shorts/2375/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1917
+
+[79] Crawling: https://www.zoomit.ir/shorts/2374/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1916
+
+[79] Crawling: https://www.zoomit.ir/shorts/2373/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1915
+
+[79] Crawling: https://www.zoomit.ir/shorts/2358/
+    ✓ Saved | Title: دکمه مخفی اینستاگرام
+    → 0 new links added to queue | Queue size: 1914
+
+[80] Crawling: https://www.zoomit.ir/shorts/2350/
+    ✓ Saved | Title: رویاهایی که خرج فیلترشکن شد!
+    → 0 new links added to queue | Queue size: 1913
+
+[81] Crawling: https://www.zoomit.ir/shorts/2349/
+    ✓ Saved | Title: نمایشگر شگفت‌انگیز گلکسی S26 ultra
+    → 0 new links added to queue | Queue size: 1912
+
+[82] Crawling: https://www.zoomit.ir/shorts/2346/
+    ✓ Saved | Title: کاسبی کثیف فیلترینگ
+    → 0 new links added to queue | Queue size: 1911
+
+[83] Crawling: https://www.zoomit.ir/shorts/2343/
+    ✓ Saved | Title: جادوی جدید گوگل
+    → 0 new links added to queue | Queue size: 1910
+
+[84] Crawling: https://www.zoomit.ir/shorts/2340/
+    ✓ Saved | Title: تحول بانکداری سنتی با دیما
+    → 0 new links added to queue | Queue size: 1909
+
+[85] Crawling: https://www.zoomit.ir/shorts/2325/
+    ✓ Saved | Title: خداحافظی با خاموش و روشن کردن فیلترشکن
+    → 0 new links added to queue | Queue size: 1908
+
+[86] Crawling: https://www.zoomit.ir/shorts/2324/
+    ✓ Saved | Title: آیا NPV قابل اعتماده؟
+    → 0 new links added to queue | Queue size: 1907
+
+[87] Crawling: https://www.zoomit.ir/shorts/2323/
+    ✓ Saved | Title: بازگشت به عصر حجر دیجیتال
+    → 0 new links added to queue | Queue size: 1906
+
+[88] Crawling: https://www.zoomit.ir/shorts/2322/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1905
+
+[88] Crawling: https://www.zoomit.ir/shorts/2321/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1904
+
+[88] Crawling: https://www.zoomit.ir/shorts/2314/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1903
+
+[88] Crawling: https://www.zoomit.ir/shorts/2308/
+    ✓ Saved | Title: دروغ قرن: من که اطلاعات مهمی ندارم!
+    → 0 new links added to queue | Queue size: 1902
+
+[89] Crawling: https://www.zoomit.ir/shorts/2290/
+    ✓ Saved | Title: چرا نباید به HA Tunnel Plus اعتماد کرد؟
+    → 0 new links added to queue | Queue size: 1901
+
+[90] Crawling: https://www.zoomit.ir/shorts/2289/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1900
+
+[90] Crawling: https://www.zoomit.ir/shorts/2284/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1899
+
+[90] Crawling: https://www.zoomit.ir/shorts/2283/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1898
+
+[90] Crawling: https://www.zoomit.ir/shorts/2280/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1897
+
+[90] Crawling: https://www.zoomit.ir/shorts/2269/
+    ✓ Saved | Title: مناسب‌ترین تلویزیون برای خانه ایرانی‌ها!
+    → 0 new links added to queue | Queue size: 1896
+
+[91] Crawling: https://www.zoomit.ir/shorts/2257/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1895
+
+[91] Crawling: https://www.zoomit.ir/shorts/2252/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1894
+
+[91] Crawling: https://www.zoomit.ir/shorts/2246/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1893
+
+[91] Crawling: https://www.zoomit.ir/shorts/2245/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1892
+
+[91] Crawling: https://www.zoomit.ir/shorts/2237/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1891
+
+[91] Crawling: https://www.zoomit.ir/shorts/2224/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1890
+
+[91] Crawling: https://www.zoomit.ir/shorts/2223/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1889
+
+[91] Crawling: https://www.zoomit.ir/shorts/2222/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1888
+
+[91] Crawling: https://www.zoomit.ir/shorts/2221/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1887
+
+[91] Crawling: https://www.zoomit.ir/shorts/2220/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1886
+
+[91] Crawling: https://www.zoomit.ir/shorts/2206/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1885
+
+[91] Crawling: https://www.zoomit.ir/shorts/2198/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1884
+
+[91] Crawling: https://www.zoomit.ir/report/461527-soroush-plus-1404-annual-report-filtering-user-growth/
+    ✓ Saved | Title: مدیرعامل سروش‌پلاس: بعد از اتصال نسبی اینترنت تعدا
+    → 1 new links added to queue | Queue size: 1884
+
+[92] Crawling: https://www.zoomit.ir/wearables/461472-snap-specs-ar-glasses-launch-fall-preorder/
+    ✓ Saved | Title: عینک فوق پیشرفته «اسپکس» رونمایی شد؛ سلام به دنیای
+    → 4 new links added to queue | Queue size: 1887
+
+[93] Crawling: https://www.zoomit.ir/report/461525-nobify-auto-earn-credit-shopping-nobitex-by-nobitex/
+    ✓ Saved | Title: همه‌چیز درباره «نوبیفای»؛ از کسب درآمد خودکار تا د
+    → 1 new links added to queue | Queue size: 1887
+
+[94] Crawling: https://www.zoomit.ir/iran-news/461517-banks-services-restored-after-disruptions/
+    ✓ Saved | Title: بانک تجارت: رفع کامل اختلالات زمان‌بر است/ بانک صا
+    → 1 new links added to queue | Queue size: 1887
+
+[95] Crawling: https://www.zoomit.ir/car/461429-new-audi-a6-allroad-specs-pictures/
+    ✓ Saved | Title: این خودرو بهترین جایگزین برای شاسی‌بلندها است - زو
+    → 3 new links added to queue | Queue size: 1889
+
+[96] Crawling: https://www.zoomit.ir/business/456246-former-google-engineer-stealing-secrets/
+    ✓ Saved | Title: مهندس گوگل، جاسوس چین از آب درآمد - زومیت
+    → 4 new links added to queue | Queue size: 1892
+
+[97] Crawling: https://www.zoomit.ir/processor/456239-shanghai-scientists-computer-chip-fiber/
+    ✓ Saved | Title: دستاورد اعجاب‌انگیز دانشمندان چین: تولید تراشه‌ کا
+    → 5 new links added to queue | Queue size: 1896
+
+[98] Crawling: https://www.zoomit.ir/buying-guide/348015-budget-laptop-buying-guide/
+    ✓ Saved | Title: ارزان‌ترین لپ تاپ؛ بهترین لپ تاپ های اقتصادی و دان
+    → 9 new links added to queue | Queue size: 1904
+
+[99] Crawling: https://www.zoomit.ir/buying-guide/403436-best-budget-smartphone-buying-guide/
+    ✓ Saved | Title: بهترین گوشی ارزان و اقتصادی بازار - زومیت
+    → 16 new links added to queue | Queue size: 1919
+
+[100] Crawling: https://www.zoomit.ir/buying-guide/347239-everything-about-android-box-best-android-boxes/
+    ✓ Saved | Title: بهترین اندروید باکس های بازار - زومیت
+    → 2 new links added to queue | Queue size: 1920
+
+[101] Crawling: https://www.zoomit.ir/speaker-headphone-review/459725-samsung-galaxy-buds4-pro-review/
+    ✓ Saved | Title: بررسی گلکسی بادز ۴ و گلکسی بادز ۴ پرو؛ بهترین ایرب
+    → 3 new links added to queue | Queue size: 1922
+
+[102] Crawling: https://www.zoomit.ir/mobile-review/459810-nothing-phone-4a-pro-review/
+    ✓ Saved | Title: بررسی ناتینگ فون 4a پرو؛ بلوغ ناتینگ در کالبد آلوم
+    → 3 new links added to queue | Queue size: 1924
+
+[103] Crawling: https://www.zoomit.ir/speaker-headphone-review/459764-glorimi-up-anc-earbuds-review/
+    ✓ Saved | Title: بررسی ایرباد گلوریمی UP ANC؛ اقتصادی و کارآمد - زو
+    → 1 new links added to queue | Queue size: 1924
+
+[104] Crawling: https://www.zoomit.ir/ai-tutorials/460522-claude-token-management-guide/
+    ✓ Saved | Title: چطور در هوش مصنوعی کلاد توکن‌ های کمتری مصرف کنیم؟
+    → 3 new links added to queue | Queue size: 1926
+
+[105] Crawling: https://www.zoomit.ir/software-application/460572-phoenix-term-cli-package/
+    ✓ Saved | Title: پروژه Phoenix Term؛ چطور خط فرمان لینوکس و مک را ب
+    → 3 new links added to queue | Queue size: 1928
+
+[106] Crawling: https://www.zoomit.ir/ai-articles/418047-ai-large-language-models-work-explanation/
+    ✓ Saved | Title: هوش مصنوعی چطور کار می‌کند؟ طرز کار مدل‌های زبانی
+    → 5 new links added to queue | Queue size: 1932
+
+[107] Crawling: https://www.zoomit.ir/tablet/461586-lenovo-tab-plus-gen-2-launch/
+    ✓ Saved | Title: تبلت جدید لنوو با اسپیکر پرقدرت و نمایشگر بزرگ معر
+    → 1 new links added to queue | Queue size: 1932
+
+[108] Crawling: https://www.zoomit.ir/tech/461619-amazon-mgm-drops-sam-altman-film/
+    ✓ Saved | Title: پایان پروژه فیلم سینمایی سم آلتمن در آمازون - زومی
+    → 0 new links added to queue | Queue size: 1931
+
+[109] Crawling: https://www.zoomit.ir/aviation-aerospace/461546-consumer-wing-in-ground-effect-aircraft/
+    ✓ Saved | Title: احیای هیولای دریای خزر در چین؛ اولین شناور اثر سطح
+    → 4 new links added to queue | Queue size: 1934
+
+[110] Crawling: https://www.zoomit.ir/gaming/461613-burger-motorsports-shuts-down-for-gta-vi/
+    ✓ Saved | Title: یک شرکت آمریکایی: در روز عرضه بازی GTA 6 همه کارمن
+    → 1 new links added to queue | Queue size: 1934
+
+[111] Crawling: https://www.zoomit.ir/mobile/461601-android-17-switch-update/
+    ✓ Saved | Title: سیستم انتقال اطلاعات بین از آیفون به اندروید، پیشر
+    → 1 new links added to queue | Queue size: 1934
+
+[112] Crawling: https://www.zoomit.ir/social-network/461597-meta-lobbying-child-safety-immunity/
+    ✓ Saved | Title: جنگ لابی‌گری در کنگره آمریکا؛ متا به‌دنبال راه فرا
+    → 2 new links added to queue | Queue size: 1935
+
+[113] Crawling: https://www.zoomit.ir/processor/461614-amd-intel-alliance-x86-ace-ai-extensions-matrix/
+    ✓ Saved | Title: تجهیز x86 به موتورهای ضرب ماتریسی؛ سلاح مشترک اینت
+    → 2 new links added to queue | Queue size: 1936
+
+[114] Crawling: https://www.zoomit.ir/ai-articles/461611-google-vids-ai-avatars-free-access/
+    ✓ Saved | Title: ساخت ویدیوهای حرفه‌ای بدون دوربین؛ آواتارهای هوش م
+    → 0 new links added to queue | Queue size: 1935
+
+[115] Crawling: https://www.zoomit.ir/car/461599-volkswagen-group-transformation-plan/
+    ✓ Saved | Title: بعد از تویوتا، فولکس‌واگن هم تعداد بسیار زیاد خودر
+    → 0 new links added to queue | Queue size: 1934
+
+[116] Crawling: https://www.zoomit.ir/gaming/461612-20-minute-gta-6-trailer-3-imminent-rumor/
+    ✓ Saved | Title: هیجان به سقف می‌چسبد؛ تریلر ۲۰ دقیقه‌ای GTA 6 احتم
+    → 0 new links added to queue | Queue size: 1933
+
+[117] Crawling: https://www.zoomit.ir/ai-articles/461596-sam-altman-openai-future-uncertainty/
+    ✓ Saved | Title: آیا دوران رهبری سم آلتمن در OpenAI رو به پایان است
+    → 0 new links added to queue | Queue size: 1932
+
+[118] Crawling: https://www.zoomit.ir/energy-environment/461595-goblin-shark-captured-camera-first-time/
+    ✓ Saved | Title: دیوکوسه برای ۲۰ ثانیه رویت شد؛ ثبت نخستین تصاویر ا
+    → 5 new links added to queue | Queue size: 1936
+
+[119] Crawling: https://www.zoomit.ir/unboxing/461606-poco-x8-pro-ironman-edition/
+    ✓ Saved | Title: گوشی «مرد آهنی» به زومیت رسید؛ نگاه نزدیک به مدل س
+    → 3 new links added to queue | Queue size: 1938
+
+[120] Crawling: https://www.zoomit.ir/mobile/461607-samsung-galaxy-m47-india-launch/
+    ✓ Saved | Title: «هیولای مرحله بعد»؛ سامسونگ تبلیغ برای گوشی گلکسی
+    → 1 new links added to queue | Queue size: 1938
+
+[121] Crawling: https://www.zoomit.ir/space/461578-universes-form-inside-collapsing-stars/
+    ✓ Saved | Title: ادعای دو فیزیکدان: ستاره‌های در حال مرگ شاید محل ش
+    → 10 new links added to queue | Queue size: 1947
+
+[122] Crawling: https://www.zoomit.ir/gaming/461585-playstation-6-release-delay-analysis/
+    ✓ Saved | Title: کنسول پلی استیشن ۶ تأخیر خورد؟ - زومیت
+    → 1 new links added to queue | Queue size: 1947
+
+[123] Crawling: https://www.zoomit.ir/processor/461605-us-concerns-over-chip-sanctions-asml-denies-euv-sales-to-china/
+    ✓ Saved | Title: نگرانی آمریکا از دورزدن تحریم‌ها؛ ASML فروش تجهیزا
+    → 0 new links added to queue | Queue size: 1946
+
+[124] Crawling: https://www.zoomit.ir/video-projector/461594-hisense-xr10-projector-specs/
+    ✓ Saved | Title: پروژکتور قابل حمل جدید هایسنس، روشنایی خیره‌کننده‌
+    → 2 new links added to queue | Queue size: 1947
+
+[125] Crawling: https://www.zoomit.ir/zoomplus/461603-tv-presenter-resigns-after-false-messi-report/
+    ✓ Saved | Title: استعفای مجری آرژانتینی پس از انتشار خبر مرگ پدر لی
+    → 0 new links added to queue | Queue size: 1946
+
+[126] Crawling: https://www.zoomit.ir/social-network/461587-telegram-ban-india-court-ruling/
+    ✓ Saved | Title: شکست تلگرام در دادگاه هند؛ فیلترینگ موقت ادامه دار
+    → 0 new links added to queue | Queue size: 1945
+
+[127] Crawling: https://www.zoomit.ir/gaming/461591-playstation-abandons-pc-single-player-ports/
+    ✓ Saved | Title: انتشار بازی‌های پلی‌استیشن برای پی‌سی متوقف می‌شود
+    → 0 new links added to queue | Queue size: 1944
+
+[128] Crawling: https://www.zoomit.ir/gaming/461584-valve-steam-controller-shipping-delays/
+    ✓ Saved | Title: برخی از سفارش‌های «استیم کنترلر» تا سال ۲۰۲۷ تحویل
+    → 1 new links added to queue | Queue size: 1944
+
+[129] Crawling: https://www.zoomit.ir/cryptocurrency/461583-bitcoin-decouples-from-tech-stocks-ai-market-shift/
+    ✓ Saved | Title: اصلاح قیمت بیت‌کوین؛ بزرگ‌ترین رمزارز دنیا با بازا
+    → 2 new links added to queue | Queue size: 1945
+
+[130] Crawling: https://www.zoomit.ir/ai-articles/461582-sundar-pichai-ai-agents-warning/
+    ✓ Saved | Title: هشدار مدیرعامل گوگل: اگر این کار را یاد نگیرید، سا
+    → 0 new links added to queue | Queue size: 1944
+
+[131] Crawling: https://www.zoomit.ir/cryptocurrency/458632-bitcoin-all-crypto-price-today/
+    ✓ Saved | Title: بیت‌کوین و تتر چند؟ قیمت روز رمزارزها در ایران [۲۹
+    → 0 new links added to queue | Queue size: 1943
+
+[132] Crawling: https://www.zoomit.ir/archive/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1942
+
+[132] Crawling: https://www.zoomit.ir/collections/
+    → Insufficient content, skipping.
+    → 0 new links added to queue | Queue size: 1941
+
+[132] Crawling: https://www.zoomit.ir/survival-crisis-guide/
+    ✓ Saved | Title: راهنمای بقا و آمادگی در شرایط بحرانی و اضطراری - ز
+    → 21 new links added to queue | Queue size: 1961
+
+[133] Crawling: https://www.zoomit.ir/Biographies/
+    → Insufficient content, skipping.
+    → 17 new links added to queue | Queue size: 1977
+
+[133] Crawling: https://www.zoomit.ir/worlds-little-mysteries/
+    ✓ Saved | Title: رازهای کوچک جهان - زومیت
+    → 16 new links added to queue | Queue size: 1992
+
+[134] Crawling: https://www.zoomit.ir/what-happens-if/
+    ✓ Saved | Title: چه می‌شد اگر - زومیت
+    → 16 new links added to queue | Queue size: 2007
+
+[135] Crawling: https://www.zoomit.ir/walk-streets-silicon-valley/
+    ✓ Saved | Title: پرسه در سیلیکون ولی - زومیت
+    → 19 new links added to queue | Queue size: 2025
+
+[136] Crawling: https://www.zoomit.ir/android-tricks/
+    ✓ Saved | Title: ترفندهای اندروید ؛ مجموعه‌ تمامی آموزش های اندروید
+    → 16 new links added to queue | Queue size: 2040
+
+[137] Crawling: https://www.zoomit.ir/hardware-deep-dive/
+    ✓ Saved | Title: مقالات سخت‌افزار - زومیت
+    → 17 new links added to queue | Queue size: 2056
+
+[138] Crawling: https://www.zoomit.ir/tech-nostalgia/
+    ✓ Saved | Title: ماشین زمان - زومیت
+    → 20 new links added to queue | Queue size: 2075
+
+[139] Crawling: https://www.zoomit.ir/solar-system/
+    ✓ Saved | Title: آشنایی با منظومه شمسی - زومیت
+    → 12 new links added to queue | Queue size: 2086
+
+[140] Crawling: https://www.zoomit.ir/infinite-engineering/
+    ✓ Saved | Title: مهندسی بی‌نهایت - زومیت
+    → 20 new links added to queue | Queue size: 2105
+
+[141] Crawling: https://zoomit.ir/product/samsung-galaxy-a57/
+    ✓ Saved | Title: قیمت گوشی A57 سامسونگ (مشخصات، فروشندگان، بررسی) -
+    → 4 new links added to queue | Queue size: 2108
+
+[142] Crawling: https://zoomit.ir/product/samsung-galaxy-a37/
+    ✓ Saved | Title: قیمت گوشی A37 سامسونگ | ارزان‌ترین فروشنده‌ها در ز
+    → 0 new links added to queue | Queue size: 2107
+
+[143] Crawling: https://zoomit.ir/product/xiaomi-poco-x8-pro/
+    ✓ Saved | Title: قیمت پوکو ایکس ۸ پرو | ارزان‌ترین فروشندگان X8 Pro
+    → 1 new links added to queue | Queue size: 2107
+
+[144] Crawling: https://zoomit.ir/product/xiaomi-poco-x8-max/
+    ✓ Saved | Title: قیمت پوکو ایکس ۸ پرو مکس | فروشندگان Poco X8 Pro M
+    → 0 new links added to queue | Queue size: 2106
+
+[145] Crawling: https://zoomit.ir/product/samsung-galaxy-s26-ultra/
+    ✓ Saved | Title: قیمت S26 Ultra سامسونگ (فروشندگان اس ۲۶ اولترا + ب
+    → 0 new links added to queue | Queue size: 2105
+
+[146] Crawling: https://zoomit.ir/product/apple-iphone-17e/
+    ✓ Saved | Title: قیمت آیفون 17e اپل | مقایسه مشخصات و فروشندگان - ز
+    → 1 new links added to queue | Queue size: 2105
+
+[147] Crawling: https://zoomit.ir/product/samsung-galaxy-s26/
+    ✓ Saved | Title: قیمت گوشی S26 سامسونگ (اس ۲۶) + مقایسه و لیست فروش
+    → 0 new links added to queue | Queue size: 2104
+
+[148] Crawling: https://zoomit.ir/product/apple-iphone-17-pro-max/
+    ✓ Saved | Title: قیمت آیفون ۱۷ پرو مکس | فروشندگان iPhone 17 Pro Ma
+    → 1 new links added to queue | Queue size: 2104
+
+[149] Crawling: https://zoomit.ir/product/apple-iphone-17/
+    ✓ Saved | Title: قیمت آیفون ۱۷ اپل | لیست فروشندگان iPhone 17 - زوب
+    → 1 new links added to queue | Queue size: 2104
+
+[150] Crawling: https://zoomit.ir/product/apple-iphone-17-pro/
+    ✓ Saved | Title: قیمت آیفون ۱۷ پرو (فروشندگان معتبر + مقایسه با رقب
+    → 0 new links added to queue | Queue size: 2103
+
+[151] Crawling: https://zoomit.ir/product/poco-x7-pro/
+    ✓ Saved | Title: قیمت پوکو ایکس ۷ پرو | ارزان‌ترین فروشندگان X7 Pro
+    → 3 new links added to queue | Queue size: 2105
+
+[152] Crawling: https://zoomit.ir/product/samsung-galaxy-a56/
+    ✓ Saved | Title: قیمت گوشی A56 سامسونگ (مشخصات، فروشندگان، بررسی) -
+    → 3 new links added to queue | Queue size: 2107
+
+[153] Crawling: https://zoomit.ir/product/samsung-galaxy-s26-plus/
+    ✓ Saved | Title: قیمت گوشی گلکسی اس 26 پلاس سامسونگ ، مقایسه و خرید
+    → 0 new links added to queue | Queue size: 2106
+
+[154] Crawling: https://zoomit.ir/product/sony-playstation-5/
+    ✓ Saved | Title: خرید PS5 Slim با بهترین قیمت (انواع ریجن‌ و گارانت
+    → 2 new links added to queue | Queue size: 2107
+
+[155] Crawling: https://zoomit.ir/product/sony-playstation-5-pro/
+    ✓ Saved | Title: خرید PS5 Pro (لیست قیمت روز و ارزان‌ترین فروشنده‌ه
+    → 0 new links added to queue | Queue size: 2106
+
+[156] Crawling: https://zoomit.ir/product/samsung-galaxy-a36/
+    ✓ Saved | Title: قیمت گوشی A36 سامسونگ | ارزان‌ترین فروشنده‌ها - زو
+    → 1 new links added to queue | Queue size: 2106
+
+[157] Crawling: https://zoomit.ir/product/samsung-galaxy-a26/
+    ✓ Saved | Title: قیمت گوشی A26 سامسونگ (مشخصات، فروشندگان، بررسی) -
+    → 2 new links added to queue | Queue size: 2107
+
+[158] Crawling: https://zoomit.ir/product/poco-x7/
+    ✓ Saved | Title: قیمت پوکو ایکس ۷ | فروشندگان Poco X7 + بررسی تخصصی
+    → 2 new links added to queue | Queue size: 2108
+
+[159] Crawling: https://zoomit.ir/product/apple-iphone-16/
+    ✓ Saved | Title: قیمت آیفون ۱۶ اپل | ارزان‌ترین فروشندگان iPhone 16
+    → 2 new links added to queue | Queue size: 2109
+
+[160] Crawling: https://zoomit.ir/product/samsung-galaxy-s25-ultra/
+    ✓ Saved | Title: قیمت S25 Ultra سامسونگ (فروشندگان اس ۲۵ اولترا، بر
+    → 1 new links added to queue | Queue size: 2109
+
+[161] Crawling: https://zoomit.ir/product/samsung-galaxy-s25/
+    ✓ Saved | Title: قیمت گوشی S25 سامسونگ (اس ۲۵) + مقایسه و لیست فروش
+    → 1 new links added to queue | Queue size: 2109
+
+[162] Crawling: https://zoomit.ir/product/apple-iphone-16-pro-max/
+    ✓ Saved | Title: قیمت آیفون ۱۶ پرو مکس | فروشندگان iPhone 16 Pro Ma
+    → 2 new links added to queue | Queue size: 2110
+
+[163] Crawling: https://zoomit.ir/product/samsung-galaxy-a16-4g/
+    ✓ Saved | Title: قیمت گوشی گلکسی A16 سامسونگ 4G ، مقایسه و خرید در
+    → 3 new links added to queue | Queue size: 2112
+
+[164] Crawling: https://zoomit.ir/product/apple-iphone-16-pro/
+    ✓ Saved | Title: قیمت آیفون ۱۶ پرو (فروشندگان معتبر + مقایسه با رقب
+    → 1 new links added to queue | Queue size: 2112
+
+[165] Crawling: https://zoomit.ir/product/apple-iphone-16-plus/
+    ✓ Saved | Title: قیمت آیفون ۱۶ پلاس اپل | ارزش خرید + معتبرترین فرو
+    → 0 new links added to queue | Queue size: 2111
+
+[166] Crawling: https://zoomit.ir/product/apple-iphone-16e/
+    ✓ Saved | Title: قیمت آیفون 16e اپل | ارزان‌ترین فروشنده‌ها + مقایس
+    → 1 new links added to queue | Queue size: 2111
+
+[167] Crawling: https://zoomit.ir/product/samsung-galaxy-a55/
+    ✓ Saved | Title: قیمت گوشی A55 سامسونگ (مشخصات، فروشندگان، بررسی) -
+    → 1 new links added to queue | Queue size: 2111
+
+[168] Crawling: https://zoomit.ir/product/samsung-galaxy-a15/
+    ✓ Saved | Title: قیمت گوشی A15 سامسونگ | لیست ارزان‌ترین فروشنده‌ها
+    → 1 new links added to queue | Queue size: 2111
+
+[169] Crawling: https://zoomit.ir/product/xiaomi-14t/
+    ✓ Saved | Title: قیمت گوشی شیائومی 14T ، مقایسه و خرید در زوبین
+    → 1 new links added to queue | Queue size: 2111
+
+[170] Crawling: https://zoomit.ir/product/xiaomi-poco-x6-pro/
+    ✓ Saved | Title: قیمت پوکو ایکس ۶ پرو | فروشندگان Poco X6 Pro + برر
+    → 2 new links added to queue | Queue size: 2112
+
+[171] Crawling: https://zoomit.ir/product/xiaomi-poco-x6/
+    ✓ Saved | Title: قیمت پوکو ایکس ۶ | فروشندگان Poco X6 + مقایسه - زو
+    → 0 new links added to queue | Queue size: 2111
+
+[172] Crawling: https://zoomit.ir/product/xiaomi-poco-f6/
+    ✓ Saved | Title: قیمت Poco F6 (فروشندگان + مقایسه پوکو اف ۶ با پرو)
+    → 1 new links added to queue | Queue size: 2111
+
+[173] Crawling: https://zoomit.ir/product/xiaomi-poco-f6-pro/
+    ✓ Saved | Title: قیمت روز Poco F6 Pro (فروشندگان + ارزش خرید پوکو ا
+    → 0 new links added to queue | Queue size: 2110
+
+[174] Crawling: https://zoomit.ir/product/samsung-galaxy-s24-ultra/
+    ✓ Saved | Title: قیمت S24 Ultra سامسونگ (فروشندگان اس ۲۴ اولترا + ب
+    → 2 new links added to queue | Queue size: 2111
+
+[175] Crawling: https://zoomit.ir/product/samsung-galaxy-z-fold6/
+    ✓ Saved | Title: قیمت گوشی گلکسی زد فولد 6 سامسونگ ، مقایسه و خرید
+    → 1 new links added to queue | Queue size: 2111
+
+[176] Crawling: https://zoomit.ir/product/samsung-galaxy-z-flip6/
+    ✓ Saved | Title: قیمت گوشی گلکسی زد فلیپ 6 سامسونگ ، مقایسه و خرید
+    → 1 new links added to queue | Queue size: 2111
+
+[177] Crawling: https://zoomit.ir/product/samsung-galaxy-watch-ultra/
+    ✓ Saved | Title: قیمت ساعت هوشمند سامسونگ گلکسی واچ اولترا  مقایسه
+    → 3 new links added to queue | Queue size: 2113
+
+[178] Crawling: https://zoomit.ir/product/samsung-galaxy-a35/
+    ✓ Saved | Title: ЩӮЫҢЩ…ШӘ ЪҜЩҲШҙЫҢ A35 ШіШ§Щ…ШіЩҲЩҶЪҜ | ЩҒШұЩҲШҙЩҶШ
+    → 3 new links added to queue | Queue size: 2115
+
+[179] Crawling: https://zoomit.ir/product/xbox-series-s-512gb/
+    ✓ Saved | Title: قیمت ایکس باکس سری اس (فروشندگان + مقایسه با سری X
+    → 2 new links added to queue | Queue size: 2116
+
+[180] Crawling: https://zoomit.ir/product/apple-ipad-pro-13-2024/
+    ✓ Saved | Title: قیمت تبلت آیپد پرو 13 اپل نسخه 2024  ، مقایسه و خر
+    → 4 new links added to queue | Queue size: 2119
+
+[181] Crawling: https://zoomit.ir/product/apple-iphone-13/
+    ✓ Saved | Title: قیمت روز آیفون ۱۳ + مقایسه iPhone 13 با نسل جدید -
+    → 2 new links added to queue | Queue size: 2120
+
+[182] Crawling: https://zoomit.ir/product/xiaomi-redmi-note-13-pro/
+    ✓ Saved | Title: قیمت ردمی نوت ۱۳ پرو 5G (فروشندگان +‌ مقایسه با 4G
+    → 4 new links added to queue | Queue size: 2123
+
+[183] Crawling: https://zoomit.ir/product/samsung-galaxy-s24/
+    ✓ Saved | Title: قیمت گوشی S24 سامسونگ (اس ۲۴) با مقایسه و لیست فرو
+    → 1 new links added to queue | Queue size: 2123
+
+[184] Crawling: https://zoomit.ir/product/samsung-galaxy-s23-fe/
+    ✓ Saved | Title: قیمت گوشی S23 FE سامسونگ | فروشندگان اس ۲۳ اف ای -
+    → 2 new links added to queue | Queue size: 2124
+
+[185] Crawling: https://zoomit.ir/product/xiaomi-17-pro-max/
+    ✓ Saved | Title: قیمت شیائومی ۱۷ پرو مکس (مشخصات + بررسی و مقایسه ف
+    → 1 new links added to queue | Queue size: 2124
+
+[186] Crawling: https://zoomit.ir/product/xiaomi-17/
+    ✓ Saved | Title: قیمت گوشی شیائومی 17 ، مقایسه و خرید در زوبین
+    → 0 new links added to queue | Queue size: 2123
+
+[187] Crawling: https://zoomit.ir/product/xiaomi-17-pro/
+    ✓ Saved | Title: قیمت گوشی شیائومی 17 پرو ، مقایسه و خرید در زوبین
+    → 5 new links added to queue | Queue size: 2127
+
+[188] Crawling: https://www.zoomit.ir/car/461438-dacia-logan-specs-iran-market-price/
+    ✓ Saved | Title: مدل جدید ال ۹۰ در ایران؛ با «لوگان ۲۰۲۶» آشنا شوید
+    → 0 new links added to queue | Queue size: 2126
+
+[189] Crawling: https://www.zoomit.ir/iran-news/461449-banking-disruptions-four-banks-coordination-council-statement/
+    ✓ Saved | Title: شورای هماهنگی بانک‌ها: رفع کامل اختلال بانک‌ها زما
+    → 3 new links added to queue | Queue size: 2128
+
+[190] Crawling: https://www.zoomit.ir/report/461426-electronics-prices-fall-after-us-iran-deal-dollar-drop/
+    ✓ Saved | Title: دلار که آرام گرفت، بازار کالای دیجیتال هم از تب اف
+    → 1 new links added to queue | Queue size: 2128
+
+[191] Crawling: https://www.zoomit.ir/social-network/461454-vozinha-instagram-follower-surge/
+    ✓ Saved | Title: دروازه‌بان کیپ‌ورد حالا ۶ میلیون دنبال‌کننده دارد؛
+    → 1 new links added to queue | Queue size: 2128
+
+[192] Crawling: https://www.zoomit.ir/car/461407-mercedes-amg-gle63-gls63-debut-details/
+    ✓ Saved | Title: شاسی‌بلندهای جدید مرسدس بنز با ارتقاء سیستم تعلیق
+    → 1 new links added to queue | Queue size: 2128
+
+[193] Crawling: https://www.zoomit.ir/economics/461213-elon-musk-trillionaire-visualization/
+    ✓ Saved | Title: «یک تریلیون دلار» دقیقا چقدر است؟ تلاش برای فهم ثر
+    → 1 new links added to queue | Queue size: 2128
+
+[194] Crawling: https://www.zoomit.ir/mobile/461450-huawei-vertical-tri-fold-emerges-patent/
+    ✓ Saved | Title: اختراع جدید هواوی؛ گوشی سه‌تکه که به‌صورت عمودی تا
+    → 2 new links added to queue | Queue size: 2129
+
+[195] Crawling: https://www.zoomit.ir/mobile/461411-sharp-aquos-r11-flagship-launch/
+    ✓ Saved | Title: این گوشی ژاپنی یکی از محصولات متفاوت امسال است - ز
+    → 1 new links added to queue | Queue size: 2129
+
+[196] Crawling: https://www.zoomit.ir/business/461544-nothing-ceo-carl-pei-apple-challenge/
+    ✓ Saved | Title: «اسم من کارل پی است و می‌خواهم مشتری‌های اپل را بد
+    → 1 new links added to queue | Queue size: 2129
+
+[197] Crawling: https://www.zoomit.ir/mobile/461431-commodore-call-back-8020-flip-phone/
+    ✓ Saved | Title: گوشی تاشو کمودور؛ وقتی موبایل قرار است شما را از ف
+    → 0 new links added to queue | Queue size: 2128
+
+[198] Crawling: https://www.zoomit.ir/mobile/461493-huawei-pura-x-max-sales-record/
+    ✓ Saved | Title: «پیورا ایکس مکس» پرفروش‌ترین گوشی تاشو تاریخ هواوی
+    → 1 new links added to queue | Queue size: 2128
+
+[199] Crawling: https://www.zoomit.ir/tech/461536-apple-price-hikes-memory-costs/
+    ✓ Saved | Title: اپل تأیید کرد: قیمت آیفون و سایر محصولات افزایش می
+    → 1 new links added to queue | Queue size: 2128
+
+[200] Crawling: https://www.zoomit.ir/os/461387-samsung-one-ui-9-galaxy-a16-5g-testing/
+    ✓ Saved | Title: توسعه آپدیت One UI 9 برای گلکسی A16 آغاز شد - زومی
+    → 1 new links added to queue | Queue size: 2128
+
+============================================================
+  Crawler finished.
+  Collected pages: 200
+  Visited URLs: 2373
+============================================================
+
+✓ Success: 200 pages were collected.
+
+✓ Data saved to file 'crawled_data.json'.
+  Number of records: 200

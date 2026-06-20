@@ -1,0 +1,37 @@
+PS E:\CompEn (SHET)\term10 - 1404-05\بازیابی اطلاعات\IR_practical2_40032313> python phase3_indexer.py
+============================================================
+  Phase 3: Elasticsearch Indexing
+============================================================
+✓ Connected to Elasticsearch: http://localhost:9200
+  Version: 9.4.0
+  Cluster name: elasticsearch
+
+⚠ Index 'zoomit_articles' already exists.
+  Delete and recreate it? (y/n): y
+  ✓ Old index deleted.
+✓ Index 'zoomit_articles' created successfully.
+  Weighted ranking will be applied in Phase 4 (Query stage).
+
+⟳ Loading 'preprocessed_data.json' ...
+✓ 200 documents loaded.
+
+⟳ در حال ایندکس‌گذاری 200 سند...
+✓ Indexing completed:
+  Successful: 200 documents
+  Failed:     0 documents
+  ✓ Index refreshed.
+
+── Index Statistics 'zoomit_articles' ──────────────
+  Documents: 200
+  Size:      2302.8 KB
+  Kibana:    http://localhost:5601
+  API:       http://localhost:9200/zoomit_articles/_search
+─────────────────────────────────────────────
+
+── Sample Indexed Document ──────────────────
+  Title:    زومیت اخبار فناوری، آموزش، راهنمای خرید و بررسی
+  Category:
+  Snippet:  فناوری خط دروازه در جام جهانی ۲۰۲۶ چگونه کار می‌کند؛ یا؟ چگونه ۱۴ دوربین و یک تو...
+─────────────────────────────────────────────
+
+✓ Phase 3 completed successfully!
