@@ -9,7 +9,7 @@
 
 <h3 align="center">
   <a href="#-فارسی">🇮🇷 فارسی</a> &bull; 
-  <a href="#-english">🇬🇧 English</a>
+  <a href="#-english">EN English</a>
 </h3>
 
 ---
